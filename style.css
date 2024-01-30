@@ -1,0 +1,204 @@
+body
+       {
+        background-color:rgb(8, 22, 30);
+        padding:0px;
+        margin:0px;
+       }
+        a.my-navbrand
+        {
+            display: flex; 
+            margin-top: 0%;
+            padding-top: 0%; 
+        }
+        
+        #p-text
+        {
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 50px;
+        font-weight:bolder;
+        background-image: linear-gradient(45deg, #f27a18 48%, #4801FF 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin:0px 0px 0px 20px;
+        padding-bottom: 0px;
+        
+        }
+        #s-text
+        {
+            margin-top: 10%;
+            padding-bottom: 0px;
+            font-weight: lighter;
+            color: white;
+            
+        }
+        
+        a.nav-link
+        {
+            margin:20px 20px 0px 0px;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color:rgb(255, 255, 255);
+            font-weight: lighter;
+        }
+        .bg-setter
+        {
+            
+            background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://assets-global.website-files.com/617a2ab2ffe6cf153dbc87b0/654db567a01afbcbb29115d1_Starting%20an%20Import-Export%20Business%20in%20Singapore.jpg);
+            border-radius: 0px 0px 30px 30px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            box-shadow: 10px 10px 100px 10px black;
+        }
+        #maintext
+        {
+           height: 100%;
+           width: 50%;
+           padding:210px 0px 90px 30px;
+           margin: 0px ;
+           
+        }
+        .a-text
+        {   
+            color: white;
+            font-size:40px;
+            font-family:anton;
+            overflow: hidden;
+            
+        }
+        #b-text
+        {
+        font-family:Anton ;
+        font-size: 70px;
+        color:white;
+        text-decoration: underline;
+        
+        }
+        .container-fluid
+        {
+        padding:0px 0px 0px 0px;
+        }
+        .nav-link:hover
+        {
+            color: white;
+            cursor: pointer;
+        }
+        .nav
+        {
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .img-resize
+        {
+            width: 100%;
+            height: 100%;
+            padding:10px 10px 10px 10px;
+            border-radius: 20px;
+            
+        }
+        .firstPart
+        {
+            margin-top: 20px;
+        }
+        .text-style
+        {
+            color: aliceblue;
+            padding: 10px 10px 0px 10px;
+        }
+        .myorienter
+        {
+            padding: 25px 30px 0px 30px;
+        }
+        .font-styler
+        {
+            color: aliceblue;
+            font-weight: lighter;
+    
+        }
+        .my-randostyle
+        {
+            background-color: rgba(128, 128, 128, 0.39);
+             padding: 10px 10px 10px 10px;
+              border-radius: 0px 30px 30px 0px;
+        }
+        .grid-sizer
+        {
+            font-family:Anton ;
+            font-size: 30px;
+            color:white;
+           padding: 60% 0px 0px 40%;
+           margin: 5px 5px 5px 5px;
+        }
+        .col-md-4
+        {
+            border:rgb(8, 22, 30) 5px solid;
+            
+        }
+        .my-collage
+        {
+            margin-top: 100px;
+            padding-top: 5px;
+        }
+        .shooter
+        {   justify-content:space-between;
+            
+            
+            
+            background: linear-gradient(45deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://images.unsplash.com/photo-1587560699334-cc4ff634909a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+            background-size: cover;
+            background-position: 50%;
+            box-shadow: 10px -200px 100px 100px rgb(0, 0, 0);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+        /* this is styling for the form  */
+        
+        h2.a-text
+        {
+            font-size: 100px;
+            margin-left: 10% ;
+            
+        }
+        input
+        {
+            padding: 15px;
+            margin: 3px;
+            border: none;
+            border-bottom: 2px solid rgb(80, 6, 6);
+            background-color:lightgray;
+            border-radius: 30px;
+            width: 80%;
+        }
+        input[type="submit"]
+        {
+            background-color: rgb(30, 80, 247);
+            color: rgb(255, 255, 255);
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        input[type="submit"]:hover
+        {
+            background-color: rgb(30, 80, 247);
+            color: rgb(255, 255, 255);
+            font-family:Arial, Helvetica, sans-serif;
+            border-color: aliceblue;
+            
+        }
+        label
+        {
+            text-transform: capitalize;
+            font-weight: bolder;
+            font-family:Arial, Helvetica, sans-serif;
+            color: rgb(255, 255, 255);
+        }
+        form
+        {
+            align-items: center;
+            padding:10% 0px 10% 14%;
+            margin: 10px 10px q0px 0px;
+            background-color: rgba(128, 128, 128, 0.39);
+            border-radius: 30px;
+            background-size: cover;
+        }
+        
+        
